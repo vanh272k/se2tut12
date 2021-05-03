@@ -1,2 +1,1 @@
-Tomorrow is Thursday
-We are learning how to work with Git
+Remember to submit the group project before May 9th
